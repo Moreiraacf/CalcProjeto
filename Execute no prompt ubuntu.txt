@@ -1,6 +1,2 @@
-# CalcProjeto
- Projeto calculadora
-
-
 Para executar o código no .sh, temos que instalar o ubuntu para não termos problemas de execução.
 salve o script no local do seu computador digite o comando: ./calc.sh python3

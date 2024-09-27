@@ -1,0 +1,5 @@
+O programa vai iniciar solicitando ao user digitar 's' para começar e 'n' para terminar.
+
+Depois vai solicitar dois números e em seguida uma operação e por fim, o resultado é impresso na tela.
+
+O programa também dá a opção do user visualizar todos os resultados enquanto ele não finalizar o programa.
